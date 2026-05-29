@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agrinho 2026 - Agro Forte, Futuro Sustentável</title>
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+header{
+    background:#2e7d32;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+nav{
+    background:#1b5e20;
+    text-align:center;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+section{
+    padding:30px;
+    max-width:1000px;
+    margin:auto;
+}
+
+.banner{
+    text-align:center;
+}
+
+.banner img{
+    width:100%;
+    max-width:800px;
+    border-radius:10px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    margin:20px 0;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+footer{
+    background:#2e7d32;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+
+.botao{
+    display:inline-block;
+    background:#4caf50;
+    color:white;
+    padding:12px 25px;
+    border-radius:5px;
+    text-decoration:none;
+    font-weight:bold;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>🌱 AGRINHO 2026</h1>
+    <h2>Agro Forte, Futuro Sustentável</h2>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#tecnologia">Tecnologia</a>
+    <a href="#scratch">Scratch</a>
+    <a href="#contato">Contato</a>
+</nav>
+
+<section class="banner">
+    <img src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854" alt="Agricultura">
+</section>
+
+<section id="sobre">
+    <div class="card">
+        <h2>🌾 Sobre o Projeto</h2>
+        <p>
+            O tema Agrinho 2026 destaca a importância do equilíbrio entre a produção agrícola
+            e a preservação do meio ambiente. O agro é responsável pela produção de alimentos,
+            mas também deve cuidar dos recursos naturais para garantir um futuro sustentável.
+        </p>
+    </div>
+</section>
+
+<section id="tecnologia">
+    <div class="card">
+        <h2>🚜 Tecnologia no Campo</h2>
+        <ul>
+            <li>Drones para monitoramento das lavouras.</li>
+            <li>Irrigação inteligente.</li>
+            <li>Energia solar nas propriedades rurais.</li>
+            <li>Máquinas agrícolas modernas.</li>
+            <li>Preservação de rios e florestas.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="scratch">
+    <div class="card">
+        <h2>🎮 Meu Projeto Scratch</h2>
+        <p>
+            Clique no botão abaixo para acessar o jogo desenvolvido no Scratch.
+        </p>
+
+        <a class="botao" href="#" target="_blank">
+            Jogar Agora
+        </a>
+
+        <p><br>
+        Substitua o símbolo # pelo link do seu projeto Scratch.
+        </p>
+    </div>
+</section>
+
+<section id="contato">
+    <div class="card">
+        <h2>📚 Créditos</h2>
+        <p>
+            Projeto desenvolvido para o Programa Agrinho 2026.
+        </p>
+        <p>
+            Autor: Seu Nome
+        </p>
+        <p>
+            Escola: Nome da Escola
+        </p>
+    </div>
+</section>
+
+<footer>
+    <p>🌱 Agro Forte, Futuro Sustentável - Agrinho 2026</p>
+</footer>
+
+</body>
+</html>
